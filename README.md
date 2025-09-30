@@ -7,11 +7,9 @@ Estos archivos se utilizan como fuente de conocimiento en un workflow de embeddi
 
 ## 📂 Archivos disponibles
 
-- [Receta 1](./receta1.pdf)  
-- [Receta 2](./receta2.pdf)  
-- [Receta 3](./receta3.pdf)  
+- [Receta 1](https://github.com/IsmaelDosio/Recepies_BabyFoodApp/blob/main/RECETAS%20FRUTAS%20APP%20BABY%20FOOD.pdf)  
+- [Receta 2](https://github.com/IsmaelDosio/Recepies_BabyFoodApp/blob/main/RECETAS%20PROTEINAS%20APP%20BABY%20FOOD.pdf)  
+- [Receta 3](https://github.com/IsmaelDosio/Recepies_BabyFoodApp/blob/main/RECETAS%20VERDURAS%20APP%20BABY%20FOOD.pdf)  
 
-*(Cuando los PDFs estén subidos, puedes editar estos enlaces para apuntar a la versión RAW en GitHub)*
 
-Ejemplo de enlace RAW directo para usar en n8n:  
 
